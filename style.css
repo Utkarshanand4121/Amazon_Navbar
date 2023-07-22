@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: white;
+    
+}
+
+#navbar {
+    height: 40px;
+    width: auto;
+    background-color: #0f1111;
+    color: burlywood;
+    line-height: 20px;
+
+}
+
+button {
+    color: #f08804;
+    height: 33px;
+    width: 50px;
+    margin-top: none;
+}
+
+#logo {
+    color: #f08804;
+    font-size: 25px;
+}
+
+a {
+    text-decoration: none;
+    margin-right: 200px;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+input {
+    font-size: 15px;
+    height: 30px;
+}
